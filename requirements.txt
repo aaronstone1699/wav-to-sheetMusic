@@ -1,0 +1,13 @@
+crepe
+librosa
+matplotlib
+music21
+numpy
+Pillow
+pyaudio
+soundfile
+
+
+
+
+
